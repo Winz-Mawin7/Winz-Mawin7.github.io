@@ -983,6 +983,7 @@ call-to-action .button {
   background-color: #11abb0;
 }
 #contact button.submit {
+  position: absolute;
   text-transform: uppercase;
   letter-spacing: 3px;
   color: #fff;
@@ -992,7 +993,7 @@ call-to-action .button {
   height: auto;
   display: inline-block;
   border-radius: 3px;
-  margin-left: 26%;
+  margin-left: 50%;
 }
 #contact button.submit:hover {
   color: #0d0d0d;
@@ -1048,7 +1049,7 @@ call-to-action .button {
 }
 
 .contact-info {
-  margin: 10rem auto 0;
+  margin: 20rem auto 0;
   font-family: 'poppins-regular', sans-serif;
   font-size: 1.5rem;
   text-align: center;
