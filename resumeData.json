@@ -3,7 +3,7 @@
     "name": "Mawin Mongkolsawat",
     "occupation": "Software Developer | Data Scientist",
     "description": "React, React-Native and NodeJS Developer for develop Web & Mobile application. and also using Python and other visualization tools for working on Data Science",
-    "image": "profilepic.jpg",
+    "image": "/profilepic.jpg",
     "bio": "I'm a Software Developer and Data Scientist who really love programming and studying the new technologies. I have learned many programming languages and frameworks and I like to working as Data Scientist to using data for modeling and visualization and I am a hard-working and willing to learn from team members.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "Winz.Mawin7@gmail.com",
@@ -16,7 +16,7 @@
       "zip": "10270"
     },
     "website": "",
-    "resumedownload": "/resume.pdf",
+    "resumedownload": "https://drive.google.com/file/d/1sk5oOfkVhz9KJDV4ACnEFQKxv52XYwnC/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
