@@ -1,0 +1,326 @@
+{
+  "main": {
+    "name": "Mawin Mongkolsawat",
+    "occupation": "Software Developer | Data Scientist",
+    "description": "React, React-Native and NodeJS Developer for develop Web & Mobile application. and also using Python and other visualization tools for working on Data Science",
+    "image": "profilepic.jpg",
+    "bio": "I'm a Software Developer and Data Scientist who really love programming and studying the new technologies. I have learned many programming languages and frameworks and I like to working as Data Scientist to using data for modeling and visualization and I am a hard-working and willing to learn from team members.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "Winz.Mawin7@gmail.com",
+    "phone": "+66 86-312-8968",
+    "address": {
+      "country": "Thailand",
+      "street": "Dansamrong 56, Samrong nuea",
+      "city": "Muang",
+      "state": "Samut Prakan",
+      "zip": "10270"
+    },
+    "website": "",
+    "resumedownload": "/resume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://facebook.com/WinzY.Mawin",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Winz_Mawin7 ",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mawin-mongkolsawat-2a6033201",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://instagram.com/thewinnies",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Winz-Mawin7",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I have learned many of programming languages for syntax comparasion and knowledge for which language suitable for each problem.",
+    "education": [
+      {
+        "school": "Burapha University",
+        "degree": "B.Sc (Bachelor of Science)",
+        "graduated": "April 2020",
+        "description": "Computer Science, GPA: 3.63."
+      },
+      {
+        "school": "Matthayom Dansamrong (High School)",
+        "degree": "Science-Math",
+        "graduated": "May 2016",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Nextgensoft",
+        "title": "Software Developer",
+        "years": "August 2020 - December 2020",
+        "description": "UX/UI Design, Develope Cross-Platform Nextschool Application, API Services, Web Application Logs, Monitoring system on Docker"
+      },
+      {
+        "company": "CSI Group (THAILAND)",
+        "title": "Data Scientist",
+        "years": "JULY 2019 - MARCH 2020",
+        "description": "Sound Classification, Image Classification, Streaming Data System, Real-time Dashboard, Big data system on premise"
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "C#",
+        "level": "70%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "PHP",
+        "level": "65%"
+      },
+      {
+        "name": "R",
+        "level": "65%"
+      },
+      {
+        "name": "Shell Script",
+        "level": "65%"
+      },
+      {
+        "name": "Perl",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      }
+    ],
+    "techstack": [
+      {
+        "name": "react",
+        "icon": "logos:react"
+      },
+      {
+        "name": "graphql",
+        "icon": "logos:graphql"
+      },
+      {
+        "name": "aws",
+        "icon": "logos:aws"
+      },
+      {
+        "name": "firebase",
+        "icon": "logos:firebase"
+      },
+      {
+        "name": "apollo",
+        "icon": "logos:apollostack"
+      },
+      {
+        "name": "docker",
+        "icon": "vscode-icons:file-type-docker"
+      },
+
+      {
+        "name": "dynamodb",
+        "icon": "logos:aws-dynamodb"
+      },
+      {
+        "name": "ec2",
+        "icon": "logos:aws-ec2"
+      },
+      {
+        "name": "kinesis",
+        "icon": "logos:aws-kinesis"
+      },
+      {
+        "name": "rds",
+        "icon": "logos:aws-rds"
+      },
+      {
+        "name": "s3",
+        "icon": "logos:aws-s3"
+      },
+      {
+        "name": "lambda",
+        "icon": "logos:aws-lambda"
+      },
+      {
+        "name": "mysql",
+        "icon": "logos:mysql"
+      },
+      {
+        "name": "postgresql",
+        "icon": "logos:postgresql"
+      },
+      {
+        "name": "sqlserver",
+        "icon": "simple-icons:microsoftsqlserver"
+      },
+      {
+        "name": "mongodb",
+        "icon": "logos:mongodb"
+      },
+      {
+        "name": "influxdb",
+        "icon": "simple-icons:influxdb",
+        "color": "#3D97EF"
+      },
+      {
+        "name": "prometheus",
+        "icon": "logos:prometheus"
+      },
+      {
+        "name": "grafana",
+        "icon": "logos-grafana"
+      },
+      {
+        "name": "express",
+        "icon": "logos:express"
+      },
+      {
+        "name": "flask",
+        "icon": "logos:flask"
+      },
+      {
+        "name": "django",
+        "icon": "logos:django"
+      },
+      {
+        "name": "bootstrap",
+        "icon": "logos:bootstrap"
+      },
+      {
+        "name": "materialui",
+        "icon": "logos:material-ui"
+      },
+      {
+        "name": "powerbi",
+        "icon": "simple-icons:powerbi",
+        "color": "#F2C811"
+      },
+      {
+        "name": "tableau",
+        "icon": "simple-icons:tableau",
+        "color": "#3582B5"
+      },
+      {
+        "name": "scikitlearn",
+        "icon": "simple-icons:scikit-learn"
+      },
+      {
+        "name": "keras",
+        "icon": "simple-icons:keras",
+        "color": "#D00000"
+      },
+      {
+        "name": "tensorflow",
+        "icon": "logos:tensorflow"
+      },
+      {
+        "name": "pytorch",
+        "icon": "logos:pytorch"
+      },
+      {
+        "name": "git",
+        "icon": "logos:git-icon"
+      },
+      {
+        "name": "yarn",
+        "icon": "logos:yarn"
+      },
+      {
+        "name": "next",
+        "icon": "logos:nextjs"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Experience is the name evertone gives to their mistakes.",
+        "user": "Oscar Wilde"
+      },
+      {
+        "text": "Research is creating new knowledge.",
+        "user": "Neil Armstrong"
+      },
+      {
+        "text": "The minute that you're not learning I believe you're dead.",
+        "user": "Jack Nicholson"
+      },
+      {
+        "text": "It's better to wait for a productive programmer to become available than it is to wait for the first available programmer to become productive.",
+        "user": "Steve McConnell"
+      },
+      {
+        "text": "People don't care about what you say, they care about what you build.",
+        "user": "Mark Zuckerberg"
+      }
+    ]
+  }
+}
