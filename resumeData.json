@@ -299,8 +299,8 @@
       }
     ]
   },
-  "testimonials": {
-    "testimonials": [
+  "quotes": {
+    "quotes": [
       {
         "text": "Experience is the name evertone gives to their mistakes.",
         "user": "Oscar Wilde"
